@@ -1,0 +1,31 @@
+body {
+background-image: url(AttenderBack.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+.logo {
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+.boxes {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+button {
+    background-color: rgba(101,42,179,1);
+    border: none;
+    margin: 90px;
+}
+
+h2 {
+    padding: 50px 70px;
+    margin: 10px;
+    color: rgba(209,204,231,1);
+    font-family: 'Segoe UI', Geneva, Verdana, sans-serif;
+}
